@@ -26,7 +26,7 @@
 마이크로소프트는 파이어폭스를 몹시 두려워했고, 인터넷 익스플로러는 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) 로 칭하며 새롭게 돌아왔고, 웹마스터들이 잘 설정한다면 좋은 코드를 렌더링 할 수 있었다.
 
 
-구글은 크롬을 만들었는데, 사파리와 비슷하고 사파리를 위한 페이지를 원했다. 그래서 그래서 크롬은 웹킷을 사용하였고, 사파리와 비슷하게 되었다. KHTML은 게코를 흉내내었고, 결국 모든 브라우저들이 모질라를 따라하게 된 셈이다. 그래서 크롬은 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.27 Safari/525.13 이라고 했고, user agent string은 서로가 서로를 따라하며 은 완전히 엉망진창이 되었다.  
+구글은 크롬을 만들었는데, 사파리와 비슷하고 사파리를 위한 페이지를 원했다. 그래서 그래서 크롬은 웹킷을 사용하였고, 사파리와 비슷하게 되었다. KHTML은 게코를 흉내내었고, 결국 모든 브라우저들이 모질라를 따라하게 된 셈이다. 그래서 크롬은 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.27 Safari/525.13 이라고 했고, user agent string은 서로가 서로를 따라하며 완전히 엉망진창이 되었다.  
 
 
 ---
